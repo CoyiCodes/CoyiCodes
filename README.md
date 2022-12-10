@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CoyiCodes
-- 👀 I’m starting a youtube channel to push myself to learn more.
-- 🌱 I’m currently learning javascript and react
-- 📫 You can (most likely) reach me from all socials using @CoyiCodes
+- 👋 Hi, I’m **@Deccoyi**
+- Coyicodes is the handle I use for my code related videos, reels etc.
+- You can find the projects on @Deccoyi on github.
 
 <!---
 CoyiCodes/CoyiCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
